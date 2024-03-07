@@ -35,4 +35,7 @@ We would like to discuss various aspect of our pizza sales data to gain insigts 
        Create a bar chart showcasing the bottom 5 worst-selling pizzas based on Revenue, Total Quantity and Total Orders. This chart will enable us to identify underperforming or less popular pizza options.
 
 
+
 Sample Snapchat of the Dashboard
+![Screenshot 2024-03-07 164535](https://github.com/joseasmino/Pizza-Sales-PowerBI-project/assets/139784691/c57f02bb-b68e-4fe5-9240-ee3de7aaa18e)
+![Screenshot 2024-03-07 164606](https://github.com/joseasmino/Pizza-Sales-PowerBI-project/assets/139784691/875a9677-79dd-4506-8a9d-3f094155a705)
